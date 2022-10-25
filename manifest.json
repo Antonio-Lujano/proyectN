@@ -1,0 +1,17 @@
+{
+
+    "name": "proyect",
+    "short_name": "proyect",
+    "theme_color": "ffe08a",
+    "backgroup_color": "ffe08a",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "icons": [
+        {
+            "src": "./imagen_icono.png",
+            "type": "image.png",
+            "sizes": "512x512"
+        }
+    ]
+}
